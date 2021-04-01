@@ -15,9 +15,9 @@ SPACESHIPS
 
 El juego se ejecuta a través de la terminal, y deberá incorporar la cantidad de filas y columnas que desea para su board. Los requerimientos mínimos para un apto funcionamiento incluyen una matriz de 10x10.
 
-```
-Al cargar los datos iniciales, comienza el juego :game_die: .
-```
+
+**Al cargar los datos iniciales, comienza el juego :game_die:**
+
 
 El patrón seteado por defecto se simula en consola, desde la terminal donde se ejecuta, representado por '1' cada celda viva, y por '0' cada celda muerta.
 
