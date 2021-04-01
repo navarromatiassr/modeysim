@@ -1,7 +1,7 @@
-#"GAME OF LIFE"
-##DECISIONES DE DISEÑO Y ARQUITECTURA
+# "GAME OF LIFE"
+## DECISIONES DE DISEÑO Y ARQUITECTURA
 
-######PRIMEROS CONCEPTOS :book:
+###### PRIMEROS CONCEPTOS :book:
 
 Como primera instancia se analizó el funcionamiento interno, se trataban de posiciones referenciadas una por cada celda, donde en su totalidad formaban parte de una matriz. Dicha matriz necesitaría analizada posición por posición para cumplir con las condiciones de entorno y la lógica de supervivencia que el sistema requería.
 

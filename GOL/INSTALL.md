@@ -1,8 +1,8 @@
-#"GAME OF LIFE"
-##GUIA DE INSTALACION
-######@navarromatiassr
+# "GAME OF LIFE"
+## GUIA DE INSTALACION
+###### @navarromatiassr
 
-######**Primeros pasos:**
+###### **Primeros pasos:**
 
 Como primera instancia se debera tener instalado:
 
