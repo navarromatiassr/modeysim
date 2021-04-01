@@ -54,4 +54,4 @@ print("\n- Evolutions done with keyboard - \n Results:\n {} generations\n {} cel
 
 **De esta manera finaliza nuestro README.INFO sobre decisiones de diseño y arquitectura del soft**.
 
-##¡Gracias!
+## ¡Gracias!
